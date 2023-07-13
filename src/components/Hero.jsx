@@ -33,7 +33,7 @@ const Hero = ({ handleColor, buttonStyle, shoesStyle, selectedColorStyle }) => {
         </div>
         <div className='description'>
           <span>
-            Discover the excellence that only Nike offers,
+            Discover the excellence that only Nike offers,<br></br>
             Products that elevate your performance beyond expectations. <br></br>
             Cutting-edge technology, innovative design, and unrivaled quality,
             Each piece is made for you, the relentless athlete.
